@@ -8,6 +8,7 @@ The system supports PDF, Markdown, and HTML documents and uses semantic search w
 
 ---
 
+
 ## Features
 
 - PDF, Markdown & HTML ingestion
