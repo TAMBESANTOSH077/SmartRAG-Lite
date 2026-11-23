@@ -62,9 +62,6 @@ uvicorn app.main:app --reload
 ```
 
 ---
-
-
-
 ## API Endpoints
 
 | Method | Endpoint | Description |
