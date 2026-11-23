@@ -7,8 +7,6 @@ Cost Efficient RAG is a Retrieval-Augmented Generation system that enables users
 The system supports PDF, Markdown, and HTML documents and uses semantic search with ChromaDB before generating responses using Google Gemini.
 
 ---
-
-
 ## Features
 - PDF, Markdown & HTML ingestion
 - Intelligent text chunking
