@@ -18,7 +18,6 @@ The system supports PDF, Markdown, and HTML documents and uses semantic search w
 - FastAPI REST API
 
 ---
-
 ## Tech Stack
 
 - Python
